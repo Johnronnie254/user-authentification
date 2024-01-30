@@ -23,11 +23,15 @@ models.py: Defines the database model (Users) and FlaskForm classes (RegisterFor
 templates/: Directory containing HTML templates for different pages.
 static/: Directory for static files such as stylesheets and images.
 requirements.txt: List of project dependencies.
+
+
 Dependencies
 Flask
 Flask-SQLAlchemy
 Flask-Login
 Flask-WTF
 Flask-Bcrypt
+
+
 Contributing
 If you would like to contribute to this project, feel free to open an issue or submit a pull request.
